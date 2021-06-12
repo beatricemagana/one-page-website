@@ -58,3 +58,7 @@ a {
     text-align: center;
     display: block;
 }
+
+.gallery-img {
+    padding-right: 25px;
+}
