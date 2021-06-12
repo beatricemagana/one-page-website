@@ -47,6 +47,7 @@ a {
 .right {
     width: 65%;
     float: right;
+    display: block;
 }
 
 .img-charlie-2 {
@@ -55,8 +56,10 @@ a {
 }
 
 .subheading {
+    margin-top: 30px;
     text-align: center;
-    display: block;
+    width: 100%;
+    float: right;
 }
 
 .gallery-img {
