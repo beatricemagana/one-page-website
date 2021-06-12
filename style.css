@@ -48,6 +48,7 @@ a {
     width: 65%;
     float: right;
     display: block;
+    margin-right: 40px;
 }
 
 .img-charlie-2 {
@@ -64,4 +65,5 @@ a {
 
 .gallery-img {
     padding-right: 25px;
+    padding-bottom: 50px;
 }
